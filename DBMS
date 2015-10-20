@@ -1,1 +1,17 @@
 
+//MongoDB 
+
+Stored Procedure:
+
+1)For MongoDB equivalent --> Javascript.
+
+	-http://pointbeing.net/weblog/2010/08/getting-started-with-stored-procedures-in-mongodb.html 
+
+	-http://dirolf.com/2010/04/05/stored-javascript-in-mongodb-and-pymongo.html
+//implementation of system.js is not yet done. do not forget.
+
+2)For GUI:  (i.e display for query, data) 
+RoboMongo : best for mac & linux 
+	
+	-http://robomongo.org/
+
